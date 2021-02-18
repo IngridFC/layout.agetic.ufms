@@ -1,15 +1,11 @@
 ---
-title: Welcome
+title: Início
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+Este é um guia colaborativo de práticas a serem adotadas quanto ao **Layout** dos sistemas desenvolvidos pela AGETIC/UFMS.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+> Quer conhecer mais? [Acesse](https://gitlab.ufms.br/ingrid.curimbaba/layout) o repositório do template do Layout.
 
 ### Getting Started
 
