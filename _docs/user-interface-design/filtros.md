@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: Filtros
+category: User Interface Design
 order: 2
 ---
 
