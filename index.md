@@ -2,7 +2,7 @@
 title: Início
 ---
 
-![imagem ilustrativa](https://i.imgur.com/GXvwNL7.png)
+![imagem ilustrativa](https://github.com/IngridFC/layout.agetic.ufms/blob/gh-pages/images/pessoas.png?raw=true)
 
 
 Este é um guia colaborativo de práticas a serem adotadas quanto ao **Layout** dos sistemas desenvolvidos pela AGETIC/UFMS.
