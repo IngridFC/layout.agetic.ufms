@@ -2,7 +2,7 @@
 title: Início
 ---
 
-![](https://imgur.com/GXvwNL7)
+![](//i.imgur.com/GXvwNL7.png)
 
 
 Este é um guia colaborativo de práticas a serem adotadas quanto ao **Layout** dos sistemas desenvolvidos pela AGETIC/UFMS.
