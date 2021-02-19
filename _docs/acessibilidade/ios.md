@@ -1,6 +1,6 @@
 ---
 title: iOS
-category: Devices
+category: Acessibilidade
 order: 1
 ---
 
