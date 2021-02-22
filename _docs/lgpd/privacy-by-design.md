@@ -1,7 +1,7 @@
 ---
-title: Images
-category: Media
-order: 1
+title: Privacy by Design
+category: Introdução
+order: 3
 ---
 
 Share images with your friends! Send photos and pictures from your computer, phone or camera.

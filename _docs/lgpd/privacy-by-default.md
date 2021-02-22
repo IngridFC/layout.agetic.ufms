@@ -1,6 +1,6 @@
 ---
-title: Video
-category: Media
+title: Privacy by Default
+category: Introdução
 order: 2
 ---
 
