@@ -1,6 +1,6 @@
 ---
 title: Privacy by Design
-category: Introdução
+category: LGPD
 order: 3
 ---
 

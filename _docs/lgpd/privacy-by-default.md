@@ -1,6 +1,6 @@
 ---
 title: Privacy by Default
-category: Introdução
+category: LGPD
 order: 2
 ---
 
