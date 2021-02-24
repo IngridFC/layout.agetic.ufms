@@ -8,7 +8,7 @@ title: Início
 Este é um guia colaborativo de práticas a serem adotadas quanto ao **Layout** dos sistemas desenvolvidos pela AGETIC/UFMS.
 
 
-> Quer conhecer mais? [Acesse](https://gitlab.ufms.br/ingrid.curimbaba/layout) o repositório do template do Layout.
+> Quer conhecer mais e poder contribuir? Entre em contato com a equipe da SEQS.
 
 ### Getting Started
 
